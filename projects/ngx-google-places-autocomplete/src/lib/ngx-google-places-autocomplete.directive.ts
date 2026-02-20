@@ -6,7 +6,8 @@ declare let google: any;
 
 @Directive({
     selector: '[ngx-google-places-autocomplete]',
-    exportAs: 'ngx-places'
+    exportAs: 'ngx-places',
+    standalone: false
 })
 
 export class GooglePlaceDirective implements AfterViewInit {
