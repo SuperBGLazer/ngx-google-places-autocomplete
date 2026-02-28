@@ -8,7 +8,7 @@
     "autocomplete",
     "typescript",
     "google places",
-    "angular 18",
+    "angular 20",
     "angular"
   ],
   "contributors": [
@@ -20,7 +20,7 @@
       "name": "Breyon Gunn"
     }
   ],
-  "version": "4.0.0",
+  "version": "4.0.1",
   "peerDependencies": {
     "@angular/common": "^20.3.16",
     "@angular/core": "^20.3.16"
